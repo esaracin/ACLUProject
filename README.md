@@ -6,10 +6,6 @@ and visualize our data analysis for the project. The 'datasets' subdirectory
 contains each of the datasets used by our notebooks, including any modifications made through
 our work (i.e. webscraping, joining, etc.). Below are brief descriptions of each of these files.
 
-Final_Report.pdf:
-	Contains the results of our work, including most of the important plots and their
-	explanations, as well as questions we posed and the answers we obtained through 
-	working with the data.
 
 Linear-Analysis-FIOs.ipynb:
 	Contains the data manipulation and visualization used to compute the linear regression
