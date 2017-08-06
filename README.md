@@ -34,8 +34,6 @@ FIO_Location_Scraper.ipynb:
 Maps.ipynb:
 	Contains the code that computed the Graphs of crimes in the Boston Area.
 
-GoogleMapper.ipynb:
-	Contains a class used to create map objects-- extremely helpful for ease of plotting.
 
 datasets/bpd-field-interrogation-and-observations-reports.csv:
 	Contains the main FIO dataset used, containing FIOs reported by the BPD between 2012 and
